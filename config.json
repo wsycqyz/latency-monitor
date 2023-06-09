@@ -1,0 +1,304 @@
+{"servers":
+ [
+  {
+   "username": "azuredev-sg",
+   "password": "password",
+   "name": "AzureDev-SG",
+   "type": "HyperV",
+   "host": "",
+   "location": "Singapore",
+   "disabled": false,
+   "region": "SG"
+  },
+  {
+   "username": "oracle-de-1",
+   "password": "password",
+   "name": "Oracle-DE-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Frankfurt",
+   "disabled": false,
+   "region": "DE"
+  },
+  {
+   "username": "oracle-de-2",
+   "password": "password",
+   "name": "Oracle-DE-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Frankfurt",
+   "disabled": false,
+   "region": "DE"
+  },
+  {
+   "username": "oracle-de-arm-1",
+   "password": "password",
+   "name": "Oracle-DE-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Frankfurt",
+   "disabled": false,
+   "region": "DE"
+  },
+  {
+   "username": "oracle-de-arm-2",
+   "password": "password",
+   "name": "Oracle-DE-ARM-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Frankfurt",
+   "disabled": false,
+   "region": "DE"
+  },
+  {
+   "username": "oracle-in-1",
+   "password": "password",
+   "name": "Oracle-IN-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Mumbai",
+   "disabled": false,
+   "region": "IN"
+  },
+  {
+   "username": "oracle-in-2",
+   "password": "password",
+   "name": "Oracle-IN-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Mumbai",
+   "disabled": false,
+   "region": "IN"
+  },
+  {
+   "username": "oracle-in-arm-1",
+   "password": "password",
+   "name": "Oracle-IN-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Mumbai",
+   "disabled": false,
+   "region": "IN"
+  },
+  {
+   "username": "oracle-jp-1",
+   "password": "password",
+   "name": "Oracle-JP-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Tokyo",
+   "disabled": false,
+   "region": "JP"
+  },
+  {
+   "username": "oracle-jp-2",
+   "password": "password",
+   "name": "Oracle-JP-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Tokyo",
+   "disabled": false,
+   "region": "JP"
+  },
+  {
+   "username": "oracle-jp-arm-1",
+   "password": "password",
+   "name": "Oracle-JP-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Tokyo",
+   "disabled": false,
+   "region": "JP"
+  },
+  {
+   "username": "oracle-osaka-1",
+   "password": "password",
+   "name": "Oracle-Osaka",
+   "type": "KVM",
+   "host": "",
+   "location": "Osaka",
+   "disabled": false,
+   "region": "JP"
+  },
+  {
+   "username": "oracle-kr-p-1",
+   "password": "password",
+   "name": "Oracle-KR-P-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-p-2",
+   "password": "password",
+   "name": "Oracle-KR-P-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-p-arm-1",
+   "password": "password",
+   "name": "Oracle-KR-P-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-b-1",
+   "password": "password",
+   "name": "Oracle-KR-B-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-b-2",
+   "password": "password",
+   "name": "Oracle-KR-B-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-b-arm-1",
+   "password": "password",
+   "name": "Oracle-KR-B-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Seoul",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-cc-1",
+   "password": "password",
+   "name": "Oracle-KR-CC-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Chuncheon",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-cc-2",
+   "password": "password",
+   "name": "Oracle-KR-CC-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Chuncheon",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-kr-cc-arm-1",
+   "password": "password",
+   "name": "Oracle-KR-CC-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Chuncheon",
+   "disabled": false,
+   "region": "KR"
+  },
+  {
+   "username": "oracle-sg-1",
+   "password": "password",
+   "name": "Oracle-SG-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Singapore",
+   "disabled": false,
+   "region": "SG"
+  },
+  {
+   "username": "oracle-sg-2",
+   "password": "password",
+   "name": "Oracle-SG-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Singapore",
+   "disabled": false,
+   "region": "SG"
+  },
+  {
+   "username": "oracle-sg-arm-1",
+   "password": "password",
+   "name": "Oracle-SG-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Singapore",
+   "disabled": false,
+   "region": "SG"
+  },
+  {
+   "username": "oracle-sg-arm-2",
+   "password": "password",
+   "name": "Oracle-SG-ARM-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Singapore",
+   "disabled": false,
+   "region": "SG"
+  },
+  {
+   "username": "oracle-us-1",
+   "password": "password",
+   "name": "Oracle-US-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Phoenix",
+   "disabled": false,
+   "region": "US"
+  },
+  {
+   "username": "oracle-us-2",
+   "password": "password",
+   "name": "Oracle-US-2",
+   "type": "KVM",
+   "host": "",
+   "location": "Phoenix",
+   "disabled": false,
+   "region": "US"
+  },
+  {
+   "username": "oracle-us-arm-1",
+   "password": "password",
+   "name": "Oracle-US-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "Phoenix",
+   "disabled": false,
+   "region": "US"
+  },
+  {
+   "username": "oracle-us-sjc-1",
+   "password": "password",
+   "name": "Oracle-US-SJC-1",
+   "type": "KVM",
+   "host": "",
+   "location": "San Jose",
+   "disabled": false,
+   "region": "US"
+  },
+  {
+   "username": "oracle-us-sjc-arm-1",
+   "password": "password",
+   "name": "Oracle-US-SJC-ARM-1",
+   "type": "KVM",
+   "host": "",
+   "location": "San Jose",
+   "disabled": false,
+   "region": "US"
+  }
+ ]
+}
