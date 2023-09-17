@@ -1,6 +1,16 @@
 {"servers":
  [
   {
+   "username": "azure-jp",
+   "password": "password",
+   "name": "Azure-JP",
+   "type": "HyperV",
+   "host": "",
+   "location": "Tokyo",
+   "disabled": false,
+   "region": "JP"
+  },
+  {
    "username": "azuredev-sg",
    "password": "password",
    "name": "AzureDev-SG",
